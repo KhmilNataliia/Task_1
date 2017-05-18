@@ -1,0 +1,13 @@
+﻿Сборка начата 07.03.2017 0:23:26.
+     1>Проект "C:\c++_дз\projects\С++_дз\2 курс\2 semestr\задачі\№1(SortPack)\sort_pack\sort_pack\sort_pack.vcxproj" в узле 2 (целевые объекты Build).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\c++_дз\projects\С++_дз\2 курс\2 semestr\задачі\№1(SortPack)\sort_pack\Debug\sort_pack.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\c++_дз\projects\С++_дз\2 курс\2 semestr\задачі\№1(SortPack)\sort_pack\Debug\sort_pack.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\c++_дз\projects\С++_дз\2 курс\2 semestr\задачі\№1(SortPack)\sort_pack\Debug\sort_pack.lib" /MACHINE:X86 Debug\Array_Of_Items.obj
+         Debug\main.obj
+         Debug\Sorted_Items.obj
+         Debug\Sort_Pack.obj
+         sort_pack.vcxproj -> C:\c++_дз\projects\С++_дз\2 курс\2 semestr\задачі\№1(SortPack)\sort_pack\Debug\sort_pack.exe
+     1>Сборка проекта "C:\c++_дз\projects\С++_дз\2 курс\2 semestr\задачі\№1(SortPack)\sort_pack\sort_pack\sort_pack.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.34
